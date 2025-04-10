@@ -274,6 +274,23 @@ margin-right: 5px;
 
 }
 
+.jenprototo .boxicek img {
+    width: 40px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    border: 1px outset rgb(223, 190, 146, 0.2);
+    border-radius: 10px;
+
+}
+
+.boxicek {
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 10px;
+}
+
 .jenprototo .boxik .fixik {
     position: absolute;
     top: 0;

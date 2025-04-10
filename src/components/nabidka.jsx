@@ -28,6 +28,7 @@ const ostatni = [
 //  { name: 'PVP - systém', path: 'pvp', imageSrc: 'https://img.m2icondb.com/71084.png' },
   { name: 'Tržnice', path: 'https://emtgen2.cc/item/search.php', imageSrc: 'https://img.m2icondb.com/50200.png' },
   { name: 'FAQ', path: 'faq', imageSrc: 'https://img.m2icondb.com/72060.png' },
+  { name: 'Knihy misí', path: 'knihyMisi', imageSrc: 'https://img.m2icondb.com/72060.png' },
 ];
 
 const lovecke_ukoly = [
